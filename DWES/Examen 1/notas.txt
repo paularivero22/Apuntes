@@ -1,0 +1,11 @@
+- formularios (codigos html)
+- enlaces a formularios (hoja 08)
+- array asociativos
+
+- hoja 10 formularios (ejercicio1)
+- 2 form que no se guardan los valores de uno a otro <input type="hidden">
+- server php en visual (sin xampp)
+
+*htmlspecialcharts
+*$_SERVER[REQUEST_METHOD] == "POST"
+** isset
