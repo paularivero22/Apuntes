@@ -1,0 +1,14 @@
+{
+    "name": "paula/hoja1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "paula",
+            "email": "priveroh01@educantabria.es"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
