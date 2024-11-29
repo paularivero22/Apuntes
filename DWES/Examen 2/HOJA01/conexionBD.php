@@ -6,7 +6,6 @@ class ConexionBD {
 
     public static function getConexion(): PDO {
         if (!self::$pdo) {
-            // Cargar las variables del archivo .env
             $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
             $dotenv->load();
 
