@@ -1,0 +1,6 @@
+nginx -> sudi nginx -t
+
+apache -> sudo apache2ctl nginx
+
+windows -> cd xammp/apache/binç
+	   httpd.exe -t
